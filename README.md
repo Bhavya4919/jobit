@@ -1,5 +1,8 @@
 # Job Searching App
 
+A React Native app via Expo simplifies job search with intuitive UI and API integration. Users explore, filter, and apply to jobs seamlessly while managing applications and profiles. Designed for ease, it streamlines the job hunt, focusing on user experience and real-time listings from various job portals.
+
+
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
